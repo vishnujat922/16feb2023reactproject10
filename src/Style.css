@@ -1,0 +1,29 @@
+header,footer{
+    height:60px;
+    border:1px dashed red;
+    background:#7431F9;
+}
+footer{
+    height:270px;
+    background:#F8F9FA ;
+}
+main{
+    height:1000px;
+    background: #FFFFFF;
+    border:1px dashed rgb(2, 2, 48);
+}
+.v_cont{
+    border:1px dashed blue
+}
+.tbdr{
+    border:1px solid rgb(79, 20, 20);
+}
+aside{
+    border:1px dashed rgb(34, 29, 29);
+}
+.section-head-cont{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
