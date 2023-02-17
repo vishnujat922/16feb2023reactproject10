@@ -1,5 +1,5 @@
 //1. Import Area 
-import { Component } from "react";
+//import { Component } from "react";
 
 //2. Definition Area
 export default function Nav(){
